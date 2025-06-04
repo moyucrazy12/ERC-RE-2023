@@ -26,8 +26,8 @@ Presentation Video: https://www.youtube.com/watch?v=QlNZfkVpSZo
 
 ## Gallery
 
-![Arm Control in RViz](./images_ERC2023/rviz_ur3.png)
+![Arm Control in RViz](./images_ERC2023/rviz_ur3.jpg)
 *UR3 joint trajectory planning in RViz*
 
-![Marker Detection](./images_ERC2023/aruco_detection.png)
+![Marker Detection](./images_ERC2023/aruco_detection.jpg)
 *Live ArUco marker detection with automatic pose storage*
