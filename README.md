@@ -1,6 +1,6 @@
-# 🛠European Rover Challenge 2025 – Maintenance Task
+# 🛠European Rover Challenge 2023 – Maintenance Task
 
-This repository contains the autonomous inspection solution developed for the **Maintenance Task** of the **European Rover Challenge 2025** as part of the **Orion Team** (Peru).
+This repository contains the autonomous inspection solution developed for the **Maintenance Task** of the **European Rover Challenge 2023** as part of the **Orion Team** (Peru).
 Presentation Video: https://www.youtube.com/watch?v=QlNZfkVpSZo
 
 ## Task Overview
